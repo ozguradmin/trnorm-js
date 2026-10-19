@@ -74,7 +74,7 @@ Unicode (`src/unassigned.js`), and lone surrogates.
   npm test
   ```
 - A wider parity harness lives in
-  [ahenk-cep-pdfreader](https://github.com/ozguradmin/ahenk-cep-pdfreader/tree/claude/tender-cori-4vvwp6/tools/parity):
+  [ahenk-cep-pdfreader](https://github.com/ozguradmin/ahenk-cep-pdfreader/tree/main/tools/parity):
   test suites, real documents and generated hostile input (huge numbers, invisible characters, combining marks,
   emoji, mixed scripts, lone surrogates, Unicode 16 characters). Its last run matched Python 3.12 on all 742,716
   results. The tests pass in V8 (Node, Chrome) and JavaScriptCore (Safari). This library is the in-browser text
