@@ -102,8 +102,11 @@ saat, para, yüzde, birim, kısaltma, telefon, IBAN, plaka, URL okunur; ekler ok
 `npm test`, Python trnorm'un 7.566 metin ve 2.505 sayıdaki çıktısıyla karşılaştırır; daha geniş eşitlik testinde
 742.716 sonucun hepsi Python 3.12'yle aynı çıktı. Kurallar ve tercihler:
 [docs/TRNORM.md](https://github.com/ozguradmin/ahenk-turkish-tts/blob/main/docs/TRNORM.md).
+Lisans Apache-2.0. Zorunlu değil ama projenizde kullanırsanız bir bağlantı verirseniz ya da bize haber verirseniz (destek@ozgurguler.tech) seviniriz.
 
 ## License
 
 Apache-2.0. The Python trnorm, its rules and the Ahenk speech models:
 [ozguradmin/ahenk-turkish-tts](https://github.com/ozguradmin/ahenk-turkish-tts).
+
+Not required, but if you use this in a project, we would be glad of a link back or a quick note (destek@ozgurguler.tech).
