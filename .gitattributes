@@ -1,0 +1,3 @@
+# LF everywhere, also in a Windows checkout: npm publishes the files as checked out, and the Ahenk demo pins
+# their hashes (site/js/trnorm in ozguradmin/ahenk-turkish-tts)
+* text=auto eol=lf
