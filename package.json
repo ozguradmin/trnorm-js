@@ -1,6 +1,6 @@
 {
   "name": "@ozgurguler/trnorm",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Turkish text normalization for speech, in JavaScript: written -> spoken form for TTS, evaluation normalization for ASR (WER/CER), and spoken -> digits. The same output as the Python trnorm.",
   "type": "module",
   "exports": {
